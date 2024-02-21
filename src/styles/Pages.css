@@ -1,0 +1,26 @@
+/* Card Styles */
+.card {
+    background-color: cornflowerblue;;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+  }
+  
+  /* Contact Form Styles */
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    padding: 20px;
+    width: 20rem;
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+  }
+
+  .container {
+    display: block;
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    padding: 60px;
+  }
