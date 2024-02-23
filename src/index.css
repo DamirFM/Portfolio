@@ -35,6 +35,29 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: rgb(0, 0, 0);
+}
+
+h2 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: rgb(0, 0, 0);
+}
+
+ul {
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: rgb(0, 0, 0);
+}
+
+label {
+  font-size: 3.2em;
+  line-height: 1.1;
+  color: cornflowerblue;
+
+}
+p {
+  color: rgb(223, 237, 100);
 }
 
 button {
